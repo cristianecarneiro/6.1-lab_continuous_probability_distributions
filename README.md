@@ -4,6 +4,7 @@
 # Lab | Continuous Probability Distributions
 
 
+
 ## Introduction
 
 As a data analyst, you might need to use probability distribution for several reasons: 
